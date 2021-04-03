@@ -1,0 +1,20 @@
+.hero-banner {
+    background-image: url('https://i.pinimg.com/originals/be/bf/c1/bebfc13c0d6f9ecb1c7a012d8990da58.jpg');
+    background-size: cover;
+    height: 1000px;
+}
+
+.text {
+    color: white;
+
+}
+
+.bgtext {
+    color: white;
+
+}
+
+.footer {
+    height: 50px;
+    text-align: center;
+}
